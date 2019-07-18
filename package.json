@@ -1,0 +1,22 @@
+{
+  "name": "text-clean-npm",
+  "version": "1.0.0",
+  "description": "clean text from special charachters that will make blunders in your http request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadawaisshaikh/text-clean-npm.git"
+  },
+  "keywords": [
+    "text-clean"
+  ],
+  "author": "Muhammad Awais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadawaisshaikh/text-clean-npm/issues"
+  },
+  "homepage": "https://github.com/muhammadawaisshaikh/text-clean-npm#readme"
+}
